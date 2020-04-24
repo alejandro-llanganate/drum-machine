@@ -1,0 +1,15 @@
+$color-fondo-container: rgb(8, 146, 151);
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    padding: 2em 1em;
+    background: transparent;
+    border: 2px solid rgb(8, 146, 151);
+    max-width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+    box-shadow: 3px 3px 15px rgb(0, 0, 0);
+}

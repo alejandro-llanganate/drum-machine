@@ -1,0 +1,27 @@
+.vistaTono-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.vistaTono-screen{
+    margin: 10px;
+    background-color: hsl(200, 18%, 26%);
+    text-align: center;
+    width: 180px;
+    height: 30px;
+    border-radius: 3px;
+    padding: 0.8em ;
+    label{
+        color: rgb(183, 207, 223);
+        font-size: 1.4em;
+    }
+}
+
+.vistaTono-img{
+    img{
+        margin: 10px;
+        width: 15em;
+    }
+}
